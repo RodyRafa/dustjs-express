@@ -1,0 +1,21 @@
+{
+  "name": "dustjs-express",
+  "version": "1.0.0",
+  "description": "Start a new project with dustjs and express",
+  "main": "app/bin/www.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dust",
+    "express",
+    "example"
+  ],
+  "author": "RodyRafa <me@rodyrafa.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.14.0"
+  }
+}
