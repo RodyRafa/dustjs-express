@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{title}</title>
+  <title>Shopping {title}</title>
 </head>
 <body>
-  <h1> {username} </h1> 
+  <h1>Bem vindo ao {shopping} </h1> 
   <span>
-    Teste de Dustjs
+    
   </span>
 </body>
 </html>
+
